@@ -1,1 +1,1 @@
-# MernProject
+# mernproject
