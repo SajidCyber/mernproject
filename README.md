@@ -2,6 +2,9 @@
 
 A MERN (MongoDB, Express, React, Node.js) full-stack application for managing and sharing food with expiry dates to reduce food waste.
 
+## Run backend first : https://smart-food-waste-xq9w.onrender.com
+## Run frontend : https://smart-food-waste.vercel.app
+
 ## Table of Contents
 - [Features](#features)
 - [Tech Stack](#tech-stack)
